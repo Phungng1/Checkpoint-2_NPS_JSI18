@@ -1,0 +1,10 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    box-sizing: border-box;
+}
+
+#clock-1-second, #clock-1-minute,#clock-2-second, #clock-2-minute{
+    display: inline;
+}
